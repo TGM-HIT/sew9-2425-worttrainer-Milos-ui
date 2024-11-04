@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="main" target="20" />
+      <module name="main.main" target="20" />
+      <module name="main.test" target="20" />
+      <module name="src" target="20" />
+      <module name="src.main" target="20" />
+      <module name="src.test" target="20" />
+      <module name="worttrainer" target="20" />
+      <module name="worttrainer.main" target="20" />
+      <module name="worttrainer.test" target="20" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
