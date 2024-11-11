@@ -52,7 +52,7 @@ public class Paar {
     public static Paar fromJson(JSONObject json) {
         String frage = json.getString("frage");
         String antwort = json.getString("antwort");
-        String bildUrl = json.optString("bildUrl", null); // Bild-URL aus JSON lesen (optional)
+        String bildUrl = json.optString("bildUrl", null);
         return new Paar(frage, antwort, bildUrl);
     }
 }
