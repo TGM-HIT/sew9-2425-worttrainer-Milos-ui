@@ -1,6 +1,5 @@
 import javax.swing.*;
 
-import java.net.URI;
 import java.net.URL;
 import java.awt.Image;
 
