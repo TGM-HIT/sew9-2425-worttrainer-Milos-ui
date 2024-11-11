@@ -15,7 +15,7 @@ public class Laden implements SuL {
                 sb.append((char) i);
             }
             JSONObject jsonObject = new JSONObject(sb.toString());
-            return Worttrainer.fromJson(jsonObject); // Verwende die fromJson-Methode von Worttrainer
+            return Worttrainer.fromJson(jsonObject); // Verwendet fromJson-Methode von Worttrainer
         } catch (IOException e) {
             e.printStackTrace();
             return null;
