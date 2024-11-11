@@ -1,0 +1,21 @@
+{
+    "richtigeVersuche": 0,
+    "versucheInsgesamt": 0,
+    "fragen": [
+        {
+            "bildUrl": "https://www.zooroyal.at/magazin/wp-content/uploads/2021/06/sitz.jpg",
+            "frage": "Was ist das für ein Tier?",
+            "antwort": "Hund"
+        },
+        {
+            "bildUrl": "https://ecommerce.koelle-zoo.de/media/71/6d/ea/1702981372/Steckbrief-Bengal-Katze-Teaser_1.jpg",
+            "frage": "Was ist das für ein Tier?",
+            "antwort": "Katze"
+        },
+        {
+            "bildUrl": "https://www.planet-wissen.de/natur/voegel/pinguine/intropinguinfederkleidgjpg100~_v-gseagaleriexl.jpg",
+            "frage": "Was ist das für ein Tier?",
+            "antwort": "Pinguin"
+        }
+    ]
+}

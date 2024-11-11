@@ -5,7 +5,6 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/src" />
-        <option name="gradleHome" value="/usr/local/Cellar/gradle/8.4/libexec" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/src" />
@@ -14,7 +13,6 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/src/main" />
-        <option name="gradleHome" value="/usr/local/Cellar/gradle/8.4/libexec" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/src/main" />
@@ -23,11 +21,10 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/src/main/java" />
-        <option name="gradleHome" value="/usr/local/Cellar/gradle/8.4/libexec" />
+        <option name="gradleJvm" value="OpenJDK 17" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/worttrainer" />
-        <option name="gradleHome" value="/usr/local/Cellar/gradle/8.4/libexec" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/worttrainer" />
